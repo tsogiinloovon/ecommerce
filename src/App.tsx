@@ -1,11 +1,7 @@
-import React from "react";
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">Hello world</header>
-    </div>
-  );
+import React from 'react'
+import Home from './pages/Home'
+const App = () => {
+    return <Home />
 }
 
-export default App;
+export default App
