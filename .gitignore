@@ -8,9 +8,6 @@
 # testing
 /coverage
 
-#dev
-yarn.lock
-
 # production
 /build
 
